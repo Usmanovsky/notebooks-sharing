@@ -19,8 +19,7 @@ Your task is to insert launch links for both cases.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Usmanovsky/notebooks-sharing.git/HEAD?urlpath=lab)
  
 **Insert a MyBinder.org launch link for the [4-Predict.ipynb](notebooks/4-Predict.ipynb) notebook.**
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Usmanovsky/notebooks-sharing.git/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FUsmanovsky%2Fnotebooks-sharing%2Fblob%2Fmain%2Fnotebooks%2F4-Predict.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Usmanovsky/notebooks-sharing.git/HEAD?filepath=https%3A%2F%2Fgithub.com%2FUsmanovsky%2Fnotebooks-sharing%2Fblob%2Fmain%2Fnotebooks%2F4-Predict.ipynb)
 
 
 ## Setup for Expanse
